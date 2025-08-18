@@ -10,7 +10,7 @@
 
 <div id="badges" align="center">
   <a href="https://johnsont4.github.io/">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fillustrations%2Fgrad-cap-clipart&psig=AOvVaw1D3rlxbn27EshSIlh41uQd&ust=1755564425749000&source=images&cd=vfe&opi=89978449&ved=0CBYQjRxqFwoTCJiSv5yGk48DFQAAAAAdAAAAABAW" alt="Personal Site"/>
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpngtree.com%2Fso%2Fgrad-cap-clipart&psig=AOvVaw3MWs2SD_r1B3f556QI7L3K&ust=1755564544965000&source=images&cd=vfe&opi=89978449&ved=0CBYQjRxqFwoTCOiN89uRk48DFQAAAAAdAAAAABAE" alt="Personal Site"/>
   </a>
 </div>
 
