@@ -8,12 +8,10 @@
   </a>
 </div>
 
-<a href="https://johnsont4.github.io/">
-  <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website Badge"/>
-</a>
-
 <div id="view_counter" align="center">
-  <img src="https://komarev.com/ghpvc/?username=johnsont4&style=flat-square&color=blue" alt=""/>
+  <a href="https://www.linkedin.com/in/johnsont4/">
+    <img src="https://komarev.com/ghpvc/?username=johnsont4&style=flat-square&color=blue" alt=""/>
+  </a>
 </div>
 
 <div id="about">
