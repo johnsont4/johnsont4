@@ -16,7 +16,7 @@
 
 <div id="about">
   <h1>About</h1>
-  <p>I am a current PhD student at CU Boulder researching NLP robustness and fairness. Previously, I worked as a ML engineer at General Motors. I also have a variety of software engineering experiences where I've worked on large scale applications. I love playing around with new technologies related to LLMs, software dev, and containerization. Please feel free to reach out.</p>
+  <p>I am a current PhD student at CU Boulder researching cultural analytics and NLP. Previously, I worked as a ML engineer at General Motors. Please feel free to reach out.</p>
 </div>
 
 <div id="technologies">
