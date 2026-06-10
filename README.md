@@ -6,6 +6,12 @@
   <a href="https://www.linkedin.com/in/johnsont4/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="https://johnsont4.github.io">
+    <img src="https://img.shields.io/badge/Website-222222?style=for-the-badge&logo=githubpages&logoColor=white" alt="Website Badge"/>
+  </a>
+  <a href="https://bsky.app/profile/teagrjohnson.bsky.social">
+    <img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky Badge"/>
+  </a>
 </div>
 
 <div id="view_counter" align="center">
